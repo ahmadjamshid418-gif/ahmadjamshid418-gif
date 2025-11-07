@@ -28,7 +28,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jamshidahmad&theme=tokyonight&row=1&column=6" />
 </p>
-
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp" height="50" />
+  <img src="https://img.shields.io/badge/Provider%20(Package)-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
+</p>
 ---
 
 ### 🌐 Connect with Me
@@ -53,9 +57,5 @@
 💖 *Keep learning, keep building!*
 Jamshid Ahmad
 Flutter Developer | Learner at Uzair Tech Solution
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp" height="50" />
-  <img src="https://img.shields.io/badge/Provider%20(Package)-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
-</p>
+
 
