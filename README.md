@@ -1,8 +1,7 @@
-![GitHub Banner](https://i.imgur.com/qOeG1qZ.png)
-<!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/SnWM4xC/banner-github.png" alt="Jamshid Ahmad Banner" width="100%" />
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Jamshid Ahmad Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Jamshid Ahmad</h1>
 <h3 align="center">A Passionate Flutter Developer from Pakistan 🇵🇰</h3>
