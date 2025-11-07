@@ -52,6 +52,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+![Stats](https://github-readme-stats.vercel.app/api?username=jamshidahmad&show_icons=true)
+
 
 ---
 
