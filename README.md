@@ -13,16 +13,8 @@
 - 💻 I work 6 hours daily at **Uzair Tech Solution**
 - 🎯 My goal: To become a **Professional App Developer**
 - ✨ I love learning new tech and improving every day!
-- 📫 Reach me at **[jamshidahmad@gmail.com](mailto:jamshidahmad@gmail.com)**  
+- 📫 Reach me at **[jamshidahmad@gmail.com](mailto:ahmadjamshid418@gmail.com)**  
 
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,html,css,js,github,vscode" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
