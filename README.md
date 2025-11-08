@@ -1,61 +1,16 @@
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Jamshid Ahmad Banner" width="100%" />
-</p>
+# covid_project
 
+A new Flutter project.
 
-<h1 align="center">Hi 👋, I'm Jamshid Ahmad</h1>
-<h3 align="center">A Passionate Flutter Developer from Pakistan 🇵🇰</h3>
+## Getting Started
 
----
+This project is a starting point for a Flutter application.
 
-### 💫 About Me:
-- 🌱 I’m currently learning **Flutter Development**
-- 💻 I work 6 hours daily at **Uzair Tech Solution**
-- 🎯 My goal: To become a **Professional App Developer**
-- ✨ I love learning new tech and improving every day!
-- 📫 Reach me at **[jamshidahmad@gmail.com](mailto:ahmadjamshid418@gmail.com)**  
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamshidahmad&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamshidahmad&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamshidahmad&theme=tokyonight&row=1&column=6" />
-</p>
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp" height="50" />
-  <img src="https://img.shields.io/badge/Provider%20(Package)-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
-</p>
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
-  <a href="mailto:jamshidahmad@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-![Stats](https://github-readme-stats.vercel.app/api?username=jamshidahmad&show_icons=true)
-
-
----
-
-⭐️ **Thanks for visiting my GitHub profile!**  
-💖 *Keep learning, keep building!*
-Jamshid Ahmad
-Flutter Developer | Learner at Uzair Tech Solution
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
